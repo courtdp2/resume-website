@@ -14,7 +14,7 @@ const AboutMe = () => {
             <article className="pa1 pa5-ns">
                 <h1 className="f3 f1-m f-headline-l">a little about me</h1>
                 <p className="measure lh-copy">
-                    I am a creative, quick-learning go-getter who excels working with a team, but also does just fine working alone. I love front-end development because it gives me a space to create for myself <br /> (and potentially someone else). I graduated from Covalance in Birmingham, AL in November 2017 to become a certifed junior full stack developer.
+                    I am a creative, quick-learning go-getter who excels working with a team but also does just fine working alone. I love front-end development because it gives me a space to create for myself <br /> (and potentially someone else). I graduated from Covalence in Birmingham, AL in November 2017 to become a certified junior full stack developer.
                 </p>
                 <p className="measure lh-copy">
                     If I'm not too invested in my work to look up from my computer screen, you might find me invested in the TV screen watching a show or playing a video game. If that's not where I am, then I'd like to think that I am with a friend, recording music in his studio.
